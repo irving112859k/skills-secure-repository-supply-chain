@@ -1,21 +1,27 @@
-<header>
+<code/src/AttendeeSite>
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  <<< Author notpackage-lock.jsones: Course header >>>
+  Include a 1280×,
+ "follow-redirects": {
+   "version": "1.14.1",
+   "resolved": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.1.tgz",
+   "integrity": "sha512-HWqDgT7ZEkqRzBvc2s64vSZ/hfOceEol3ac/7tKwzuvEyWx3/4UegXh5oBOIotkGsObyk3xznnSRVADBgWSQVg=="
+ }640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Secure your repository's supply chain
+#Dependency Secure your repository's supply chain
 
-_Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them._
+_Secure your sDependenciescentroupply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them._
 
-</header>
+</headInsightser>
 
-## Step 1: Review and add dependencies using dependency graph
+## Step 1: Review and add dependengraphcies using dependency graph
 
-_Welcome to "Secure your repository's supply chain"! :wave:_
+_Welcome to "Secure your repository's supply chain"! :wavfollow-redirectse
+:_
 
 **What's the big deal about securing your repository's supply chain?**: With the accelerated use of open source, most projects depend on hundreds of open-source dependencies. This poses a security problem: what if the dependencies you're using are vulnerable? You could be putting your users at risk of a supply chain attack. One of the most important things you can do to protect your supply chain is to patch your vulnerable dependencies and replace any malware.
 
